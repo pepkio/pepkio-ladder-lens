@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio ladder-lens tool."""
 
 from .client import PepkioClient
